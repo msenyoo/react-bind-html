@@ -1,3 +1,5 @@
+![Node.js CI](https://github.com/msenyoo/react-bind-html/workflows/Node.js%20CI/badge.svg) [![Build Status](https://travis-ci.org/msenyoo/react-bind-html.svg?branch=master)](https://travis-ci.org/msenyoo/react-bind-html.svg?branch=master) [![Issue Status](https://img.shields.io/github/issues/msenyoo/react-bind-html)](https://github.com/msenyoo/react-bind-html/issues) [![Build Status](https://img.shields.io/github/license/msenyoo/react-bind-html)](https://github.com/msenyoo/react-bind-html/blob/main/LICENSE)
+
 # react-bind-html
 
 Parse HTML string and display in react application
