@@ -1,6 +1,6 @@
 {
   "name": "react-bind-html",
-  "version": "1.3.0",
+  "version": "1.4.0",
   "description": "Parse HTML string and display in react application",
   "author": {
     "name": "Senthilkumar Mathivanan",
@@ -51,10 +51,12 @@
     "dist"
   ],
   "keywords": [
-    "bind-html",
-    "sting to html",
+    "bind html",
+    "generate html",
+    "text to react html",
+    "string to html",
+    "react to html",
     "react",
-    "typescript",
     "npm"
   ]
 }
